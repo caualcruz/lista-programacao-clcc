@@ -18,6 +18,6 @@ public class AtividadeSala12 {
             System.out.println("Digite a " + (i+1) + "ª nota");
             notas[i] = leia.nextDouble();
         }
-        System.out.println("A média das notas digitadas é: "+ (notas[0] + notas[1] +B notas[2] )/3);
+        System.out.println("A média das notas digitadas é: "+ (notas[0] + notas[1] + notas[2] )/3);
     }
 }
