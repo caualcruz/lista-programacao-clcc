@@ -33,6 +33,6 @@ public class AtividadeSala13 {
         }
         System.out.println("Boletim");
         System.out.println("-----------------");
-        printBoletim(materias, boletiM);
+        printBoletim(materias, boletim);
     }
 }
