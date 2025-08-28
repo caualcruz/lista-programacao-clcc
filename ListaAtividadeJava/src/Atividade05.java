@@ -4,6 +4,6 @@ public class Atividade05 {
         int cargaHor = 1000000;
 
         System.out.println("Curso: " + curso + "\n" + "Carga horária: " + cargaHor +"h");
-        
+
     }
 }
