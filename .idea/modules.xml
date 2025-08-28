@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AtividadeJava/AtividadeJava.iml" filepath="$PROJECT_DIR$/AtividadeJava/AtividadeJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/AtividadesEmSala/AtividadesEmSala.iml" filepath="$PROJECT_DIR$/AtividadesEmSala/AtividadesEmSala.iml" />
       <module fileurl="file://$PROJECT_DIR$/AtividadesJava/AtividadesJava.iml" filepath="$PROJECT_DIR$/AtividadesJava/AtividadesJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListaAtividadeJava/ListaAtividadeJava.iml" filepath="$PROJECT_DIR$/ListaAtividadeJava/ListaAtividadeJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lista-programacao-clcc.iml" filepath="$PROJECT_DIR$/.idea/lista-programacao-clcc.iml" />
       <module fileurl="file://$PROJECT_DIR$/AtividadesJava/src/src.iml" filepath="$PROJECT_DIR$/AtividadesJava/src/src.iml" />
     </modules>
