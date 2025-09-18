@@ -27,20 +27,20 @@ public class Lampada {
         System.out.println("A lâmpada foi desligada");
     }
 
-    public void aumentarBrilho(int valor) {
-        this.brilho += valor;
+    public void aumentarBrilho(int aumentar) {
+        this.brilho += aumentar;
         if (this.brilho > 100) {
             this.brilho = 100;
         }
         System.out.println("Brilho aumentado para " + this.brilho);
     }
 
-    public void reduzirBrilho(int valor) {
-        this.brilho -= valor;
+    public void abaixarBrilho(int abaixar) {
+        this.brilho -= abaixar;
         if (this.brilho < 0) {
             this.brilho = 0;
         }
-        System.out.println("Brilho reduzido para " + this.brilho);
+        System.out.println("Brilho diminuido para " + this.brilho);
     }
 
     public void mudarCor(String novaCor) {
